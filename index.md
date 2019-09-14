@@ -7,4 +7,6 @@
 ![リンクテキスト](./image/hurusatonouzei.png)  ![リンクテキスト](./image/jyuuminnzei.png)
 ![リンクテキスト](./image/tukaerutokoro.png)
 
-#  [利用の方はこちら](./client)</br>  [自治体の方はこちら](./govement)</br>    [導入者の方はこちら](./store)</br>   
+# [利用の方はこちら](./client)</br>  
+# [自治体の方はこちら](./govement)</br>   
+# [導入者の方はこちら](./store)</br>   
