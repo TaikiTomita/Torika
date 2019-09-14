@@ -12,8 +12,7 @@
   <img src = "./image/cashcycle.png" width="400">
   
   
-   Topへ  
-   [ホームへ](./index.md)
+   [トップページへ](./index.md)
   
   
 
