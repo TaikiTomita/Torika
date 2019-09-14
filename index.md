@@ -7,6 +7,6 @@
 ![リンクテキスト](./image/hurusatonouzei.png)  ![リンクテキスト](./image/jyuuminnzei.png)
 ![リンクテキスト](./image/tukaerutokoro.png)
 
-# [トリカを使用するかたはこちら](./client)  
+# [トリカを使用する方はこちら](./client)  
 # [自治体の方はこちら](./government)   
 # [導入者の方はこちら](./store) 
