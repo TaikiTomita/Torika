@@ -12,8 +12,8 @@
   <img src = "/image/cashcycle.png" width="400">
   
   
-   Topへ
-   <>
+   Topへ  
+   <https://github.com/TaikiTomita/Torika/blob/master/index.md>
   
   
 
