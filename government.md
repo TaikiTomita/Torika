@@ -10,7 +10,7 @@
   「トリカ」を使用するとその分のサービスを受けることができます.お店側は,得た「トリカ」を自治体に還元することによりお金を受け取ることができます.  
   
   
-  <img src="https://github.com/TaikiTomita/Torika/blob/master/image/cashcycle.png" width="400">
+  <img src = "/image/cashcycle.png" width="400">
   
 
 
