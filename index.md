@@ -4,9 +4,11 @@
 トリカは、ふるさと納税の寄付による返礼品に付随される形、住民税の納税によって自治体から送られてくる形によって入手することができます。
 そのトリカは、ふるさと納税を行った自治体、住民税を支払った自治体の商店街、交通機関、観光地で仮想通貨として利用することができます。  
 
-![リンクテキスト](./image/hurusatonouzei.png)  ![リンクテキスト](./image/jyuuminnzei.png)
-![リンクテキスト](./image/tukaerutokoro.png)
+![リンクテキスト](./image/hurusatonouzei.png)<br>
+![リンクテキスト](./image/jyuuminnzei.png)<br>
+![リンクテキスト](./image/tukaerutokoro.png)<br>
 
-# [トリカを使用する方はこちら](./client)  
-# [自治体の方はこちら](./government)   
-# [導入者の方はこちら](./store) 
+
+## [トリカを使用する方はこちら](./client)  
+## [自治体の方はこちら](./government)   
+## [導入者の方はこちら](./store) 
