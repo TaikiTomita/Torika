@@ -13,7 +13,7 @@
   
   
    Topへ  
-   <https://github.com/TaikiTomita/Torika/blob/master/index.md>
+   ![ホームへ](./index.md)
   
   
 
