@@ -8,5 +8,5 @@
 ![リンクテキスト](./image/tukaerutokoro.png)
 
 # [利用の方はこちら](./client)  
-# [自治体の方はこちら](./govement)   
+# [自治体の方はこちら](./government)   
 # [導入者の方はこちら](./store) 
